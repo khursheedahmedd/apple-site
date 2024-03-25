@@ -2,7 +2,9 @@ import React from 'react'
 
 const Highlights = () => {
     return (
-        <div>Highlights</div>
+        <section className='w-screen overflow-hidden h-full common-padding bg-zinc'>
+
+        </section>
     )
 }
 
